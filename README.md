@@ -11,7 +11,7 @@
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
-<p align="center" display="block">
+<p align="center" display="inline-block">
 
 <h5 align = "center"><b>  Programming Languages </b></h5>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
