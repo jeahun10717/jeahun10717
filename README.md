@@ -7,9 +7,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jeahun00)](https://solved.ac/jeahun00)
 
-## 📚 STACKS
+## 🛠 Tech Stack
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <div>
 <h5><b>  Programming Languages </b></h5>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
