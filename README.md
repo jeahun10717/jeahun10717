@@ -10,11 +10,12 @@
 ## 📚 STACKS
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-
-<p align="center" display="inline-block">
-
-<h5 align = "center"><b>  Programming Languages </b></h5>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<div>
+<h5><b>  Programming Languages </b></h5>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <h5><b> FrameWorks </b></h5>
 <img src="https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=Koa&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-33333D?style=flat-square&logo=express&logoColor=white"/>
@@ -27,4 +28,4 @@
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 
-</p>
+</div>
