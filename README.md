@@ -1,7 +1,6 @@
 ## 📊 github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahun10717)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeahun10717)](https://github.com/anuraghazra/github-readme-stats)
 ## 🧑‍💻 Solved.ac
 
 [![Solved.ac
